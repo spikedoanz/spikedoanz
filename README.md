@@ -13,8 +13,9 @@
 Computer Science Major <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 - 🔭 I'm a Junior at Georgia State University who sometimes teaches English and Math.
-- 🌱 Currently devling into music theory, machine learning and Japanese.
-- ⚡ I speak these 🇻🇳 🇬🇧
+- 🌱 Currently devling into music theory, machine learning and lambda calculus.
+- 🧗‍♂️ In my free time I'll probably be dangling on a rope off the side of a cliff.
+- ⚡ I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵
 
 ---
 
