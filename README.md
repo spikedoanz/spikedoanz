@@ -1,9 +1,6 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mike Doan here</h1>
 
 ### :egg: &nbsp;About Me :
-
-Computer Science Major from Vietnam.
-
 - 🔭 CS at GSU, sometimes teaches English and Math.
 - 🌱 Currently devling into music theory, machine learning and low level programming.
 - 🧗‍♂️ I like climbing, rocks are cool.
