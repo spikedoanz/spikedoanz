@@ -7,7 +7,7 @@
 Computer Science Major from Vietnam.
 
 - 🔭 I'm a Junior at Georgia State University who sometimes teaches English and Math.
-- 🌱 Currently devling into music theory, machine learning and lambda calculus.
+- 🌱 Currently devling into music theory, machine learning and low level programming.
 - 🧗‍♂️ In my free time I'll probably be dangling on a rope off the side of a cliff.
 - ⚡ I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵
 
