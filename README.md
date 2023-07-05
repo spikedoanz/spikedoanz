@@ -6,9 +6,9 @@
 
 Computer Science Major from Vietnam.
 
-- 🔭 I'm a Junior at Georgia State University who sometimes teaches English and Math.
+- 🔭 CS at GSU, sometimes teaches English and Math.
 - 🌱 Currently devling into music theory, machine learning and low level programming.
-- 🧗‍♂️ In my free time I'll probably be dangling on a rope off the side of a cliff.
+- 🧗‍♂️ I like climbing, rocks are cool.
 - ⚡ I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵
 
 ---
