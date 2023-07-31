@@ -2,7 +2,7 @@
 
 ### :egg: &nbsp;About Me :
 - 🔭 CS at GSU, sometimes teaches English and Math.
-- 🌱 Currently devling into music theory, machine learning and low level programming.
+- 🌱 Currently trying to make the sand talk!
 - 🧗‍♂️ I like climbing, rocks are cool.
 - ⚡ I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵
 
