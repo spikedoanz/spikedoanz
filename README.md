@@ -9,7 +9,7 @@
 
 <p> - Working around context windows on local LLMs (better than the 8k afforded by the superHOT RoPE hack)
 
-<p> - Speaker diarization</p>
+<p> - Prompt engineering for user customization</p>
 
 <p> - Authentic TTS, or even STS  :eyes:</p>
 
