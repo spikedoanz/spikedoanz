@@ -7,11 +7,9 @@
 ---
 
 ### :egg: &nbsp;About Me :
-- 🌱 Currently obsessed with ML
-- 🧗‍♂️ Bouldering is dope!
-- 🔭 Dev by day, english and math tutor by night
-- ⚡ I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵
-- 
+<p>Language instructor by trade before pivoting to CS, now onto ML</p>
+<p>Bouldering is dope! I post my climbing stuff on my instagram, check it out!</p>
+<p>I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵</p>
 ---
 
 ### :egg: &nbsp; Favorite languages :
