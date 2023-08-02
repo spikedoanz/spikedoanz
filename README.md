@@ -11,7 +11,7 @@
 
 <p> - Prompt engineering for user customization</p>
 
-<p> - Fine tuning LLMs for replicating Q&A style conversations</p>
+<p> - Fine tuning/LoRA-ing LLMs for replicating Q&A style conversations</p>
 
 <p> - Authentic TTS, or even STS  :eyes:</p>
 
