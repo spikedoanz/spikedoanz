@@ -18,12 +18,14 @@
 <p> - Optimizing mediums of information for knowledge/language acquisition</p>
 
 <p>I'm also building a couple of AI business tools like Q&A bots, document interpreters and disseminators at TReNDS Center</p>
+
 ---
 
 ### 📑 &nbsp;About Me :
 <p>Language instructor by trade before pivoting to CS, now onto ML</p>
 <p>Bouldering is dope! I post my climbing stuff on my instagram, check it out!</p>
 <p>I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵</p>
+
 ---
 
 ### &nbsp; Favorite languages :
