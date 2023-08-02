@@ -1,7 +1,9 @@
 ### 🥚 &nbsp; What I'm working on :
 
 <p>I'm builidng AI-bo corp, the AI company to help you keep up with the changing times</p>
-<p>If you know how to solve any of these issues, let me know if you'd want to collaborate, AI-bo needs you! Email: manhdoan.aibo@gmail.com</p>
+<p>If you know how to solve any of these issues, let me know if you'd want to collaborate, AI-bo needs you! </p>
+
+<p>Email: manhdoan.aibo@gmail.com</p>
 
 <p> - Semantic search (not convert text into embeddings and apply an ANN, but actual semantic search like how a human recites a book)</p>
 
