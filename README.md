@@ -9,7 +9,7 @@
 
 <p> - Speaker diarization</p>
 
-<p> - Authentic TTS, or even STS :eyes:</p>
+<p> - Authentic TTS, or even STS  :eyes:</p>
 
 <p> - Optimizing mediums of information for knowledge/language acquisition</p>
 
