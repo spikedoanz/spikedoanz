@@ -11,6 +11,8 @@
 
 <p> - Prompt engineering for user customization</p>
 
+<p> - Fine tuning LLMs for replicating Q&A style conversations</p>
+
 <p> - Authentic TTS, or even STS  :eyes:</p>
 
 <p> - Optimizing mediums of information for knowledge/language acquisition</p>
