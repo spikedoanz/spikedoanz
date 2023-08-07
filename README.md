@@ -1,7 +1,7 @@
 ![who im tryna be](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)
 ### 🥚 &nbsp; What I'm working on :
 
-<p>I'm building AI-bo corp, the AI company to help you keep up with the changing times</p>
+<p>I'm building AI-bo corp, augmenting users with AI one tool at a time</p>
 <p>If you know how to solve any of these issues, let me know if you'd want to collaborate, AI-bo needs you! </p>
 
 <p> 📫 Email: manhdoan.aibo@gmail.com</p>
