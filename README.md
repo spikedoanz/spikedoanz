@@ -2,22 +2,6 @@
 ### 🥚 &nbsp; What I'm working on :
 
 <p>I'm building AI-bo corp, augmenting users with AI one tool at a time</p>
-<p>If you know how to solve any of these issues, let me know if you'd want to collaborate, AI-bo needs you! </p>
-
-<p> 📫 Email: manhdoan.aibo@gmail.com</p>
-
-<p> - Semantic search (not convert text into embeddings and apply an ANN, but actual semantic search like how a human recites a book)</p>
-
-<p> - Working around context windows on local LLMs (better than the 8k afforded by the superHOT RoPE hack)
-
-<p> - Prompt engineering for user customization</p>
-
-<p> - Fine tuning/LoRA-ing LLMs for replicating multi-turn Q&A style conversations</p>
-
-<p> - Authentic TTS, or even STS  :eyes:</p>
-
-<p> - Optimizing mediums of information for knowledge/language acquisition</p>
-
 <p>I'm also building a couple of AI business tools like Q&A bots, document interpreters and disseminators at TReNDS Center</p>
 
 ---
