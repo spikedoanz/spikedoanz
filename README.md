@@ -6,14 +6,7 @@
 
 ---
 
-### 📑 &nbsp;About Me :
-<p>Language instructor by trade before pivoting to CS, now onto ML</p>
-<p>Bouldering is dope! I post my climbing stuff on my instagram, check it out!</p>
-<p>I speak these 🇻🇳 🇬🇧, and am learning this 🇯🇵</p>
-
----
-
-### 💻 &nbsp; Favorite languages :
+### 💻 &nbsp; Preferred languages :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
