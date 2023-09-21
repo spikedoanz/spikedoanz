@@ -1,4 +1,3 @@
-![who im tryna be](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)
 ### 🥚 &nbsp; What I'm working on :
 
 <p>I'm building AI-bo corp, augmenting users with AI one tool at a time</p>
