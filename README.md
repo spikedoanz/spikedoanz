@@ -11,9 +11,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🗨️ &nbsp;Contacts :
-<p>Send me a DM through Twitter or Instagram if you want to connect!</p>
-<p>Alternatively, email at manhdoan.aibo@gmail.com</p>
