@@ -1,7 +1,7 @@
 ### 🥚 &nbsp; What I'm working on :
 
-<p>I'm founded AI-bo corp, augmenting users with AI one tool at a time</p>
-<p>I'm also building a couple of AI business tools like Q&A bots, document interpreters and disseminators at TReNDS Center</p>
+<p>I'm founded AI-bo corp, augmenting users one tool at a time</p>
+<p>I'm also building a couple of ML business tools like Q&A bots, document interpreters and disseminators at TReNDS Center</p>
 
 ---
 
